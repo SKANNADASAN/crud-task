@@ -24,11 +24,11 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-align-content: space-around;
-gap: 2rem;
+  align-content: space-around;
+  gap: 2rem;
   border: 1px solid black;
-  width: 200px;
-  height: 250px;
+  width: 170px;
+  height: 200px;
   margin: 12px;
 }
 .card-conainer{
