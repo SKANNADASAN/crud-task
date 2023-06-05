@@ -7,10 +7,10 @@ const Base = ({title, Description, children}) => {
     <div className='main-component base-component'>
       <button 
       onClick={()=>history.push("/")}
-      >Dashboard</button>
+      ><h3>Dashboard</h3></button>
       <button
        onClick={()=>history.push("add")}
-      >Add Users</button>
+      ><h3>Add Users</h3></button>
       <header>
         <h1 className='heading'>{title}</h1>
       </header>

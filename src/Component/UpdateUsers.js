@@ -66,7 +66,7 @@ const UpdateUsers = ({user,setUsers}) => {
         />
         <button 
         onClick={updateUsers}
-        >Update Users</button>
+        ><h3>Update Users</h3></button>
     </div>
     </Base>
   )
